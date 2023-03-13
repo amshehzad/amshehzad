@@ -1,21 +1,17 @@
+> A full-stack web developer and internet entreprenuer with over a decade of expertise.
 
-### :fire: My Stats :
+<p>
+  <img src="https://komarev.com/ghpvc/?username=amshehzad&style=flat-square" alt="Profile Visits"> 
+  <a href="https://github.com/amshehzad" target="_blank">
+    <img alt="Follow on GitHub" src="https://img.shields.io/github/followers/amshehzad?label=Follow&style=social">
+  </a>
+  <a href="https://twitter.com/amshehzad" target="_blank">
+    <img alt="Follow on Twitter" src="https://img.shields.io/twitter/follow/abmshehzad?style=social">
+  </a>
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=syed-afzal&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syed-afzal&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Metrics](/github-metrics.svg)](https://github.com/amshehzad)
 
-<!--
-**amshehzad/amshehzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
